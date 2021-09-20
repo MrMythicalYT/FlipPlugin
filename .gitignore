@@ -1,32 +1,8 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+./FlipPlugin/BakkesMod.props
+./FlipPlugin/IMGUI/
+./FlipPlugin/fmt/
+./FlipPlugin/plugins/
+./FlipPlugin/update_version.ps1
+./FlipPlugin/resource.h
+./FlipPlugin/pch.*
+./FlipPlugin/vcxproj.*
